@@ -19,3 +19,9 @@
 
 
 ## 2. Modeling
+
+### Arrays of Ancestors
+
+### Materialized Paths
+
+### Nested Sets
