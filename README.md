@@ -24,7 +24,7 @@
 * Atomicity
    * The write operation is atomic considering a single document. When we execute a write or insert operation, only one document is created or updated
 * Indexes
-  *
+  * It is possible to add indexes, however in this case the indexes were automatically generated and are represented by the _id_ field. I 
 * Large Number of Collections
   *
 
