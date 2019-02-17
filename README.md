@@ -2,6 +2,6 @@
 
 ## 1. Twitter Data
 
-![picture](https://github.com/FarkIst/DBAssignment3_Modeling/DBAssignment3_Modeling/img/Q1.PNG)
+![picture](https://github.com/FarkIst/DBAssignment3_Modeling/blob/master/img/Q1.PNG)
 
 ## 2. Modeling
