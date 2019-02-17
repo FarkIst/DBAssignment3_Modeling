@@ -2,6 +2,6 @@
 
 ## 1. Twitter Data
 
-![picture](img/Q1.png)
+![picture](DBAssignment3_Modeling/img/Q1.PNG)
 
 ## 2. Modeling
