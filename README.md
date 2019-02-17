@@ -21,6 +21,12 @@
 ## 2. Modeling
 
 ### Arrays of Ancestors
+* Atomicity
+   *
+* Indexes
+  *
+* Large Number of Collections
+  *
 
 ### Materialized Paths
 
