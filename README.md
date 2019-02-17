@@ -9,7 +9,7 @@
 ![picture](https://github.com/FarkIst/DBAssignment3_Modeling/blob/master/img/Q2.PNG)
 
 ### 1.3 Who are the most mentioned Twitter users? (Provide the top five.)
-incomplete
+![picture](https://github.com/FarkIst/DBAssignment3_Modeling/blob/master/img/Q5.PNG)
 
 ### 1.4 Who are the most active Twitter users (top ten)?
 ![picture](https://github.com/FarkIst/DBAssignment3_Modeling/blob/master/img/Q3.PNG)
