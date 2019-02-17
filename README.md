@@ -7,7 +7,7 @@
 
 #### Review
 * Does it solve the problem, and if not, explain why
- * It solves the problem and returns the amount of distinct users from the collection
+  * It solves the problem and returns the amount of distinct users from the collection
 * If you were able to get the queries to work in your setup (using a different programming language), and if not, what was the problem.
 
 * Any suggestion from your own solution you would like to point out for inspiration
