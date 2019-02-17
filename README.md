@@ -22,7 +22,7 @@
 
 ### Arrays of Ancestors
 * Atomicity
-   *
+   * The write operation is atomic considering a single document. When we execute a write or insert operation, only one document is created or updated
 * Indexes
   *
 * Large Number of Collections
